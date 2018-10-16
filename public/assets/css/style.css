@@ -3,7 +3,7 @@
 }
 
 a {
-	color: #23A6D5;
+	color: rgb(40, 18, 236);
 }
 
 button {
@@ -11,13 +11,13 @@ button {
 }
 
 a#home, a.home, a#saved, a.saved {
-	color: #23A6D5;
+	color:  rgb(40, 18, 236);
 	
 }
 
 marquee {
 	padding: 5px;
-	background-color: #23A6D5;
+	background-color: rgb(40, 18, 236);
 	color: #fff;
 
 }
